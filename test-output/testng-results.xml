@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="115571" started-at="2021-05-04T17:49:53Z" finished-at="2021-05-04T17:51:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="115571" started-at="2021-05-04T17:49:53Z" finished-at="2021-05-04T17:51:48Z">
+      <class name="com.crm.qa.testCases.ContactsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testCases.ContactsPageTest@4b9e13df]" name="setUp" is-config="true" duration-ms="44740" started-at="2021-05-04T23:19:53Z" finished-at="2021-05-04T23:20:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addContacts(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testCases.ContactsPageTest@4b9e13df]" name="addContacts" duration-ms="11681" started-at="2021-05-04T23:20:38Z" data-provider="getData" finished-at="2021-05-04T23:20:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sri]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Teja]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mamy_sai200@yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContacts -->
+        <test-method status="PASS" signature="endUp()[pri:0, instance:com.crm.qa.testCases.ContactsPageTest@4b9e13df]" name="endUp" is-config="true" duration-ms="2173" started-at="2021-05-04T23:20:50Z" finished-at="2021-05-04T23:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testCases.ContactsPageTest@4b9e13df]" name="setUp" is-config="true" duration-ms="42450" started-at="2021-05-04T23:20:52Z" finished-at="2021-05-04T23:21:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addContacts(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.crm.qa.testCases.ContactsPageTest@4b9e13df]" name="addContacts" duration-ms="11797" started-at="2021-05-04T23:21:34Z" data-provider="getData" finished-at="2021-05-04T23:21:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sri]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Satya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sri.satya275@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContacts -->
+        <test-method status="PASS" signature="endUp()[pri:0, instance:com.crm.qa.testCases.ContactsPageTest@4b9e13df]" name="endUp" is-config="true" duration-ms="2192" started-at="2021-05-04T23:21:46Z" finished-at="2021-05-04T23:21:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endUp -->
+      </class> <!-- com.crm.qa.testCases.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
