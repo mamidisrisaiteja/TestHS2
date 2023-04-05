@@ -31,6 +31,7 @@ public class ContactsPageTest extends TestBase{
 @BeforeMethod
 public void setUp() throws Exception {
 	System.out.println("this is jasmi commit 1");
+	System.out.println("this is commit 2");
 	initialization();
 	Thread.sleep(10000);
 	loginPage=new LoginPage();
