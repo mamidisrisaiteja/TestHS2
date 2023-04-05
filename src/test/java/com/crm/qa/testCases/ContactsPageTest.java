@@ -24,11 +24,13 @@ public class ContactsPageTest extends TestBase{
 	
 	String sheetName="contacts";
 	
+	
 	public ContactsPageTest() {
 		super();
 	}
 @BeforeMethod
 public void setUp() throws Exception {
+	System.out.println("this is jasmi commit 1");
 	initialization();
 	Thread.sleep(10000);
 	loginPage=new LoginPage();
